@@ -15,13 +15,13 @@ A lightweight, interactive web application that allows users to roll multiple di
 
 ## 🚀 How to Use
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/dice-roller.git](https://github.com/your-username/dice-roller.git)
-   Open index.html in your favorite browser.
+   https://rutujapote3305.github.io/Dice-roller-project/
+  
+2. Open index.html in your favorite browser.
 
-2. Enter the number of dice in the input field.
+3. Enter the number of dice in the input field.
 
-3. Click "Roll Dice" and see the results!
+4. Click "Roll Dice" and see the results!
 
 🧠 What I Learned
 Implementing Math.floor(Math.random() * 6) + 1 for game logic.
